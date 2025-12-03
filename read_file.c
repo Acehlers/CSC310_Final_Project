@@ -1,3 +1,8 @@
+/**
+ ** Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
+*/
+
+
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>

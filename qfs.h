@@ -1,5 +1,7 @@
 /*
 **
+** Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
+**
 ** Header file containing definitions for the QFS (Quinnipiac File System)
 **
 ** Usage: #include "qfs.h"
