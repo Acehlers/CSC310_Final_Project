@@ -1,5 +1,10 @@
 /**
  ** Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
+ ** December 12, 2025
+ **
+ ** This program reads in QFS disk and lists information such as: block size, total number
+ ** of blocks, number of free blocks, total diretory entries, and number of free
+ ** entries.
 */
 
 #include <stdio.h>

@@ -1,7 +1,7 @@
 /*
 ** Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
-**
-** Program to make a filesystem on a blank file using the qfs parameters
+** December 12 2025
+** Program to make a filesystem on a blank file using the qfs parameters altered to format disks and images up to 120 MB
 **
 ** Usage: mkfs_qfs <disk image file> [<label>]
 **

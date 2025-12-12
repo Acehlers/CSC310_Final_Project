@@ -1,5 +1,8 @@
 /**
  ** Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
+ ** December 12, 2025
+ ** This program reads and recovers files in disk images and writes them into the wroking directory.
+ ** Files that are recovered are laveled as recovered_file_X.jpg
 */
 
 #include <stdio.h>

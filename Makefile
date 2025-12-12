@@ -1,3 +1,6 @@
+# 
+# Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
+# December 12, 2025
 # Simple Makefile to build all C programs in the current directory
 # Usage:
 #  - To build all programs: make

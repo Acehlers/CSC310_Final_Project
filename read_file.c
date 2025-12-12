@@ -1,5 +1,11 @@
 /**
  ** Team 12: Ella Berry, Anne McCullagh, Andrew Ehlers
+ ** December 12, 2025
+
+ ** This program will read in a image and take a certain file and
+ ** write it into current directory. Takes in the name of disk, name of file
+ ** being extracted, and finally the data blocks and contents and place into
+ ** new file in directory. If no file exists, error statment is printed.
 */
 
 
