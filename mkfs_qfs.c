@@ -95,13 +95,13 @@ int main(int argc, char *argv[]) {
 #endif
 
 	int total_data_available = (file_size - sizeof(superblock_t) - (sizeof(direntry_t) * 255));
-	if (total_data_available <= 31457280) {
+	if (total_data_available <= 31457280) { // add in restriction for byte size
 		sb.bytes_per_block = 512;
 	}
-	else if (total_data_available <= 62914560) {
+	else if (total_data_available <= 62914560) { // add in another byte size to include more
 		sb.bytes_per_block = 1024;
 	}
-	else { 
+	else { // provide byte size for anything more than 62914560
 		sb.bytes_per_block = 2048;
 	}
 
